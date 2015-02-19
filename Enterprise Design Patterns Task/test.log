@@ -1,0 +1,50 @@
+17:32:20,662  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:21,667  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:21,667  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:21,667  INFO Producer:23 - Producer: produced 10
+17:32:21,668  INFO Consumer:23 - Consumer : consumed 10
+17:32:21,675  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:22,572  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:22,572  INFO Producer:23 - Producer: produced 9
+17:32:22,572  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:22,573  INFO Consumer:23 - Consumer : consumed 9
+17:32:22,573  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:23,375  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:23,376  INFO Producer:23 - Producer: produced 8
+17:32:23,376  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:23,376  INFO Consumer:23 - Consumer : consumed 8
+17:32:23,376  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:24,081  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:24,081  INFO Producer:23 - Producer: produced 7
+17:32:24,081  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:24,082  INFO Consumer:23 - Consumer : consumed 7
+17:32:24,082  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:24,687  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:24,687  INFO Producer:23 - Producer: produced 6
+17:32:24,687  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:24,687  INFO Consumer:23 - Consumer : consumed 6
+17:32:24,687  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:25,192  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:25,192  INFO Producer:23 - Producer: produced 5
+17:32:25,192  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:25,192  INFO Consumer:23 - Consumer : consumed 5
+17:32:25,192  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:25,593  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:25,594  INFO Producer:23 - Producer: produced 4
+17:32:25,594  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:25,594  INFO Consumer:23 - Consumer : consumed 4
+17:32:25,594  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:25,899  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:25,899  INFO Producer:23 - Producer: produced 3
+17:32:25,899  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:25,900  INFO Consumer:23 - Consumer : consumed 3
+17:32:25,900  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:26,105  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:26,105  INFO Producer:23 - Producer: produced 2
+17:32:26,105  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:26,105  INFO Consumer:23 - Consumer : consumed 2
+17:32:26,105  INFO MyBlockingQueue:50 - Queue is empty. Consumer : waiting. 
+17:32:26,209  INFO MyBlockingQueue:39 - Queue : added element.
+17:32:26,209  INFO Producer:23 - Producer: produced 1
+17:32:26,209  INFO MyBlockingQueue:60 - Queue : deleted element.
+17:32:26,209  INFO Consumer:23 - Consumer : consumed 1
